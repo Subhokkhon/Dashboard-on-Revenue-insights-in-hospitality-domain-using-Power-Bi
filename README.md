@@ -1,0 +1,2 @@
+# Dashboard-on-Revenue-insights-in-hospitality-domain-using-Power-Bi
+This project presents a Power BI dashboard designed to provide actionable revenue insights in the hospitality domain. It analyzes key business performance indicators across multiple properties, cities, and booking platforms, enabling stakeholders to make data-driven decisions for improving revenue, occupancy, and customer experience.
